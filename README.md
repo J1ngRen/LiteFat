@@ -4,8 +4,8 @@ Detecting driver fatigue is critical for road safety, as drowsy driving remains 
 
 The main contributions of this paper are as follows:
 
-We propose a lightweight graph learning human fatigue detection model called LiteFat, which can achieve high accuracy while maintaining low computational complexity, making it suitable for real-time deployment on embedded robotic devices. % This paper deals with human fatigue detection in resource-constrained environments.
-We introduce a multimodal fusion approach that dynamically constructs feature matrices from facial landmarks and MobileNet-based facial embeddings. Instead of using predefined facial graph structures, LiteFat learns the adjacency matrix adaptively during training, reducing human bias and capturing more accurate spatial relationships.
-We conduct comprehensive experiments on a benchmark driver fatigue dataset. LiteFat demonstrates state-of-the-art (SOTA) performance, while significantly improving computational efficiency and reducing latency compared to baseline methods.
+  We propose a lightweight graph learning human fatigue detection model called LiteFat, which can achieve high accuracy while maintaining low computational complexity, making it suitable for real-time deployment on embedded robotic devices. % This paper deals with human fatigue detection in resource-constrained environments.
+  We introduce a multimodal fusion approach that dynamically constructs feature matrices from facial landmarks and MobileNet-based facial embeddings. Instead of using predefined facial graph structures, LiteFat learns the adjacency matrix adaptively during training, reducing human bias and capturing more accurate spatial relationships.
+  We conduct comprehensive experiments on a benchmark driver fatigue dataset. LiteFat demonstrates state-of-the-art (SOTA) performance, while significantly improving computational efficiency and reducing latency compared to baseline methods.
 
 <img width="790" height="210" alt="image" src="https://github.com/user-attachments/assets/01aa5ac3-a457-4e19-a901-695507c0bc40" />
